@@ -1,7 +1,7 @@
 name = "NeuralAmpModeler"
 uuid = "9d6748af-4cc3-43d4-a270-d55ebfe46fd3"
 authors = [ "Florian Paul Schmidt <mista.tapas@gmx.net>" ]
-version = "1.11.0"
+version = "0.1"
 
 [deps]
 Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
