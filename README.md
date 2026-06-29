@@ -1,3 +1,5 @@
+Only A1 standard is implemented right now.
+
 ```julia
 
 julia> import NeuralAmpModeler
